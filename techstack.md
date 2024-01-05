@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 swadhin1515/metamask-extension is built on the following main stack:
+
 - [CircleCI](https://circleci.com/) – Continuous Integration
 - [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -40,11 +41,13 @@ swadhin1515/metamask-extension is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 swadhin1515/metamask-extension is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/191/default_9262326592c97828a2a4299dec085a3674dd05f4.png' alt='Sentry'/> [Sentry](https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile) – Exception Monitoring
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -83,14 +86,15 @@ swadhin1515/metamask-extension is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/metamask-extension](https://github.com/swadhin1515/metamask-extension)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|169<br/>Tools used|11/10/23 <br/>Report generated|
+|171<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -478,9 +482,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (125)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (127)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (125)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (127)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -523,6 +527,7 @@ Full tech stack [here](/techstack.md)
 |[bn.js](https://www.npmjs.com/bn.js)|v5.2.1|07/26/23|legobeat |MIT|N/A|
 |[bowser](https://www.npmjs.com/bowser)|v2.11.0|07/26/23|legobeat |MIT|N/A|
 |[brfs](https://www.npmjs.com/brfs)|v2.0.2|07/30/20|Mark Stacey |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|06/15/23|legobeat |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|01/18/23|Olusegun Akintayo |MIT|N/A|
 |[chromedriver](https://www.npmjs.com/chromedriver)|v114.0.2|07/28/23|Peter |Apache-2.0|[CVE-2023-26156](https://github.com/advisories/GHSA-hm92-vgmw-qfmx) (Moderate)|
 |[classnames](https://www.npmjs.com/classnames)|v2.2.6|05/08/23|Pedro Figueiredo |MIT|N/A|
@@ -561,6 +566,7 @@ Full tech stack [here](/techstack.md)
 |[gulp-watch](https://www.npmjs.com/gulp-watch)|v5.0.1|07/24/23|Michele Esposito |MIT|N/A|
 |[gulp-zip](https://www.npmjs.com/gulp-zip)|v5.1.0|04/25/23|legobeat |MIT|N/A|
 |[history](https://www.npmjs.com/history)|v4.10.1|07/19/23|legobeat |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|02/09/23|Pedro Figueiredo |MIT|N/A|
 |[immer](https://www.npmjs.com/immer)|v9.0.6|10/08/21|Mark Stacey |MIT|N/A|
 |[ini](https://www.npmjs.com/ini)|v1.3.8|08/01/15|kumavis |ISC|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.1.2|08/01/23|Brad Decker |MIT|N/A|
@@ -613,4 +619,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
