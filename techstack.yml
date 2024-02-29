@@ -2,7 +2,7 @@ repo_name: swadhin1515/metamask-extension
 report_id: 06315a8f9c7798d8ede8dfb627eb9d76
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:00:07+00:00'
+timestamp: '2024-02-29T18:30:08+00:00'
 requested_by: albertolive
 provider: github
 branch: develop
@@ -366,7 +366,7 @@ tools:
   last_updated_by: kumavis
   last_updated_on: 2015-08-01 01:38:02.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.4
   license: MIT
@@ -380,7 +380,7 @@ tools:
   last_updated_by: Monte Lai
   last_updated_on: 2023-06-29 13:24:08.000000000 Z
 - name: Sentry
-  description: 'See performance issues, fix errors faster, and optimize code health. '
+  description: See performance issues, fix errors faster, and optimize code health.
   website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
   open_source: true
   hosted_saas: true
